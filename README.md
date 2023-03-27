@@ -1,2 +1,2 @@
 # LibraryClassWork
-[Blank diagram.pdf](https://github.com/PCPetkov18/LibraryClassWork/files/11076185/Blank.diagram.pdf)
+[LibraryClassDiagram.pdf](https://github.com/PCPetkov18/LibraryClassWork/files/11077704/LibraryClassDiagram.pdf)
