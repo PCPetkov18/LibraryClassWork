@@ -1,6 +1,6 @@
 public class Catalogue {
-    String AuthorName;
-    int NumOfCopies;
+    private String AuthorName;
+    private int NumOfCopies;
 
     public void SearchByName(){
 

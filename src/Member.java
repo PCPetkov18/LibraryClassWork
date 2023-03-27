@@ -1,6 +1,6 @@
 public class Member {
-    String Id;
-    int Pass;
+    private String Id;
+    private int Pass;
 
     public void DwnldBook(){
 

@@ -1,6 +1,6 @@
 public class Staff {
-    String Id;
-    String Pass;
+    private String Id;
+    private String Pass;
 
     public void UpdateInfo(){
 

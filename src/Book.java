@@ -1,8 +1,8 @@
 public class Book {
-    String NameOfBook;
-    String AuthorName;
-    int NumOfBooks;
-    String Subj;
+    private String NameOfBook;
+    private String AuthorName;
+    private int NumOfBooks;
+    private String Subj;
 
     public void RemoveFromCatalogue(){
 
